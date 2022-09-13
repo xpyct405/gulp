@@ -3,6 +3,9 @@ Here is a gulp build that iam using for my projects
 
 Based on BrainsCloud`s assembly of Gulp! (https://www.youtube.com/watch?v=1ccA_Jo6u-o)
 
+first step: download zip
+second step: extract files
+then ==>
 
 1. Создаём папку проекта.
 2. Закидываем туда src, gulpfile.js, package.json
